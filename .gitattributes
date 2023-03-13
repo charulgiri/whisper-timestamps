@@ -1,3 +1,1 @@
-*.bin filter=lfs diff=lfs merge=lfs -text
-whisper_processor/*.bin filter=lfs diff=lfs merge=lfs -text
-whisper_processor/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+
