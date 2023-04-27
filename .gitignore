@@ -22,4 +22,5 @@
 .DS_Store
 .DS_Store?
 ._*
+*.json
 web_interface.code-workspace
